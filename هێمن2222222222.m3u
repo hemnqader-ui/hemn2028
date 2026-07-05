@@ -59,3 +59,107 @@ https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 #EXTINF:-1 tvg-name="newline" group-title="هەواڵەکان",newline
 http://188.40.159.100:25461/live/Binartvku/Bzbdkjdjs77/345.m3u8
+#EXTINF:0,SANGAR TV
+https://storage.googleapis.com/sx-master/c0285dc558ac62%2Ffiles%2F1613407108667-sangartv.mp4
+#EXTINF:-1,Rudaw TV HD
+http://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+#EXTINF:-1,K24 HD
+http://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+#EXTINF:-1,Kurdsat News HD
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+#EXTINF:-1,NRT 1 HD
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1,Payam TV
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/chunklist.m3u8
+#EXTINF:0,Kurd Channel HD
+http://kurd-channel.ikoflix.com/hls/kurd-channel.m3u8
+#EXTINF:0,Chaw HD
+http://baskhd.ddns.net:40/live/chawhd/playlist.m3u8
+#EXTINF:0,MMN documentary ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:0,MMN radiofarsy ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdradiofarsy/playlist.m3u8
+#EXTINF:0,MMN radioturky ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/playlist.m3u8
+#EXTINF:0,MMN news ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+#EXTINF:0,MMN movies ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
+#EXTINF:0,MMN drama ᴴᴰ
+#EXTGRP:Kurdistan
+http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
+#EXTINF:0,MMN kids ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
+#EXTINF:0,MMN quran ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
+#EXTINF:0,Bask HD
+http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
+#EXTINF:0,Amozhgary HD
+https://media.streambrothers.com:1936/8248/8248/chunklist_w1596236503.m3u8
+#EXTINF:0,Sada HD
+http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
+#EXTINF:0,jude TV  ᴴᴰ
+http://baskhd.ddns.net:40/live/jude/chunklist.m3u8
+#EXTINF:0,Afarin Kids ᴴᴰ
+http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:0,alarabia TV ᴴᴰ
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:0,alarabia alhadath ᴴᴰ
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:0,Alaraby  ᴴᴰ
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:0,aljazeera HD
+https://live-hls-web-aja.getaj.net/AJA/04.m3u8
+#EXTINF:0,Al Jazeera Mubasher  ᴴᴰ
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:0,Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:0,TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:0,Al Sharqia  ᴴᴰ
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:0,Al Sharqiya N HD
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:0, HD العراقية
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:0,Ajyal HD
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:0,Water HD
+http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
+#EXTINF:0,Makkah HD
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w966623075.m3u8
+#EXTINF:0,Quran Kareem HD
+http://m.live.net.sa:1935/live/quran/chunklist.m3u8
+#EXTINF:0,noordubai HD
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+#EXTINF:0,IQRA TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:0,islamtv_english ᴴᴰ
+https://live.islamchannel.tv/islamtv_english/1/prog_index.m3u8
+#EXTINF:0,IRAN International ᴴᴰ
+https://live.playstop.me/1816184091/chunklist_b2796000.m3u8
+#EXTINF:0,TRT 1 ᴴᴰ
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT Belgesel ᴴᴰ
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:0,TRT AVAZ ᴴᴰ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT MUZIK ᴴᴰ
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT Diyanet ᴴᴰ
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/Hghc3DIVfj6Bn_0.m3u8
+#EXTINF:0,CNN TV  ᴴᴰ
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
+#EXTINF:0,Sky News ᴴᴰ
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:0,BBC news  ᴴᴰ
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+
+
+
+
+
+
+
+
+
